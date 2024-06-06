@@ -1,9 +1,5 @@
-![Group 2](https://user-images.githubusercontent.com/47206155/147916110-d19e051b-3246-4377-a807-a1ff4d4a7e9f.png)
-# covid_tracker
 
-I have created this app flutter with Rest API, API is open source. 
-
-Youtube Tutorials: https://youtube.com/playlist?list=PLFyjjoCMAPtzgITDreXNNkSWLKbd1wf51
+![covid_mock](https://github.com/Saim22Ahmed/Flutter-Covid-19-App/assets/80286799/ddf1cde9-c986-4b04-865f-502b40df268a)
 
 
 This app has the following features. 
